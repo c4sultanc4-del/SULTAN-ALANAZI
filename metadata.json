@@ -1,0 +1,5 @@
+{
+  "name": "STEMI Connect",
+  "description": "A comprehensive dashboard for optimizing STEMI patient transfer protocols, featuring AI-powered protocol assistance and training material generation.",
+  "requestFramePermissions": []
+}
